@@ -8,3 +8,6 @@ To edit, go to /src
 run npm install
 run gulp
 edit files in /src/assets folder
+
+# facts test use in current folder
+run node facts.js
